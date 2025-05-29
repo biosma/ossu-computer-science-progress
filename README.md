@@ -50,7 +50,7 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 | Provider |                                                                                  Course                                                                                   | Completion Date | Proof | Repository |
 | :------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-| MIT OCW  | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |        -        |   -   |     -      |
+| MIT OCW  | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/) |        -        |   -   |     [*](/courses/courses/introduction-to-cs-and-programming-using-python-fall-2022)      |
 
 ## Core CS
 
