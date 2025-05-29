@@ -46,12 +46,6 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 ## Intro CS
 
-### Introduction to Programming
-
-| Provider |                        Course                        | Completion Date | Proof | Repository |
-| :------: | :--------------------------------------------------: | :-------------: | :---: | :--------: |
-| py4e.com | [Python for Everybody](https://www.py4e.com/lessons) |        -        |   -   |     -      |
-
 ### Introduction to Computer Science
 
 | Provider |                                                                                  Course                                                                                   | Completion Date | Proof | Repository |
