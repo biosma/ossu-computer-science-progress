@@ -1,0 +1,1 @@
+No finger exercise for lecture 25
